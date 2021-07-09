@@ -1,2 +1,2 @@
 # Lab_AI
-code cho môn AI của Gs Takashi
+code đồ án ck môn AI của Gs Takashi
